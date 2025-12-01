@@ -1,0 +1,53 @@
+Frame work
+
+1) Error handling => central error handling
+2) Validation => form validation, request validation
+3) Authentication & Authorization =>
+4) Logging 
+5) Performance monitoring
+6) Memory Monitoring
+7) testing
+
+things I have done in react
+
+optimisation:
+turbo repo for mono repo setup
+testing - playwright E2E
+pnpm 
+typescript
+dry
+xior 
+valibot
+rollup visualiser
+code splitting
+lazy loading
+signals
+url as state manager
+local first development, less api calls, improved efficiency
+memoize everything or get it outside the component
+Instead of useState => useRef:no re-render, useReducer: batched re-rendering, useQueryState
+use html data-* attribute to save closure memory
+use suspense
+event delegation -> will reduce the number of code lines. e.g. for dropdowns, modals, etc.
+use service/web worker for heavy calculations; caching, etc.
+maybe use wasm
+
+future:
+micro frontend
+nextjs ssg page router for pre rendered html or nuxtjs is it fast
+add observability - either grafana faro, sentry, posthog, rybbit
+only call the api if the data is in viewport
+optimistic update
+use native features of HTML and CSS e.g. html-dialog, html-accordion
+
+Tools:
+use wsyywig editor
+integrated t3env so that env errors are shown during build time
+eslint simple sort plugin
+eslint stylistic
+husky
+lint-staged
+storybook
+eslint setup 
+livekit
+nivo charts
