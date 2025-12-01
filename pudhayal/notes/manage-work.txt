@@ -1,0 +1,4 @@
+1) draw a flow chart eg. software design with aws flows and all
+2) document the thing we speak, so to verify it later and mark it done. may be use jira or something more suitable
+3) Nomanclature for files. Basically SOP for work in written
+4) Always check the status of the staffs. Have stand up call, check for daily status of work and if facing any problem, see if they need any help. Always try to delegate.
